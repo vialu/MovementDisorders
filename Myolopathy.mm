@@ -62,7 +62,7 @@
     
   </head>
   <body>
-    <img src="../../Desktop/Screen%20Shot%202019-05-11%20at%2017.49.18.png" />
+    <img src="png/myelopaty.png" />
   </body>
 </html></richcontent>
 </node>
